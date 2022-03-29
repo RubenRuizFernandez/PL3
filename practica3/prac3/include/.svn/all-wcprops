@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include
+END
+leon3_ev_handling_asm.S
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_ev_handling_asm.S
+END
+leon3_asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_asm.h
+END
+leon3_hw_irqs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_hw_irqs.h
+END
+leon3_bprint.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_bprint.c
+END
+leon3_ev_handling.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_ev_handling.c
+END
+leon3_uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_uart.c
+END
+leon3_bprint.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_bprint.h
+END
+leon3_ev_handling.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_ev_handling.h
+END
+leon3_hw_irqs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_hw_irqs.c
+END
+leon3_uart.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_uart.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/main.c
+END
+leon3_types.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/ic_se09073111w/!svn/ver/8/trunk/prac3/include/leon3_types.h
+END
