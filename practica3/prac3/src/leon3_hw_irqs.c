@@ -55,9 +55,8 @@ uint8_t leon3_mask_irq (uint8_t irq_level) {
 
 		// COMPLETAR Poniendo a 0 SOLO el bit de LEON3_IMASK correspondiente al irq_level
 		uint32_t bit = (1 << (irq_level -1)); // La mascara del bit a modificar
-		* LEON3_IMASK = * LEON3_IMASK & bit;
-
-
+		// * LEON3_IMASK = * LEON3_IMASK & bit;   // Esto no funciona, hay que negar la mascara
+		* LEON3_IMASK = * LEON3_IMASK & ~bit;   // Esto no funciona, hay que negar la mascara
 	}else
 		error=1;
 	return error;
